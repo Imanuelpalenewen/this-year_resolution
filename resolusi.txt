@@ -1,0 +1,3 @@
+Resolusi
+-  bisa memahami fundamental(dasar) dari bahasa pemograman JavaScript & Python
+-  Tau dan mengerti hal-hal apa saja yang harus dipelajari untuk menjadi seorang Front-End development
